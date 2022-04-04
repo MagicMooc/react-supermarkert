@@ -1,7 +1,7 @@
 {
     "description": "200ml 瓶装牛奶",
     "id": 2,
-    "image": "https://res.cloudinary.com/dbfn5lnvx/image/upload/q_auto/v1607769454/react-tutorial/products/final/milk.png",
+    "image": "https://picmagic.oss-cn-beijing.aliyuncs.com/img/milk.png",
     "name": "牛奶",
     "nutrition": {
         "carbs": 11,

@@ -1,7 +1,7 @@
 {
     "description": "500g 菠萝",
     "id": 4,
-    "image": "https://res.cloudinary.com/dbfn5lnvx/image/upload/q_auto/v1607769454/react-tutorial/products/final/pineapple.png",
+    "image": "https://picmagic.oss-cn-beijing.aliyuncs.com/img/pineapple.png",
     "name": "菠萝",
     "nutrition": {
         "carbs": 22,

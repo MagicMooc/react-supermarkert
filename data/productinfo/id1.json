@@ -1,7 +1,7 @@
 {
     "description": "200g 奶酪块",
     "id": 1,
-    "image": "https://res.cloudinary.com/dbfn5lnvx/image/upload/q_auto/v1607769454/react-tutorial/products/final/cheese.png",
+    "image": "https://picmagic.oss-cn-beijing.aliyuncs.com/img/cheese.png",
     "name": "奶酪",
     "nutrition": {
         "carbs": 1.3,
