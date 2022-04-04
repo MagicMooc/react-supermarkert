@@ -1,8 +1,8 @@
 {
-    "description": "200ml milk bottle",
+    "description": "200ml 瓶装牛奶",
     "id": 2,
     "image": "https://res.cloudinary.com/dbfn5lnvx/image/upload/q_auto/v1607769454/react-tutorial/products/final/milk.png",
-    "name": "Milk",
+    "name": "牛奶",
     "nutrition": {
         "carbs": 11,
         "fat": 15,
@@ -11,5 +11,5 @@
     },
     "price": 5,
     "price_id": "price_1KkN8RGj8t01EJllgyBkzvpE",
-    "storage": "Store in the fridge"
+    "storage": "冷藏储存"
 }

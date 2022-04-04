@@ -1,8 +1,8 @@
 {
-    "description": "1 piece of tomato",
+    "description": "一个马铃薯",
     "id": 3,
     "image": "https://res.cloudinary.com/dbfn5lnvx/image/upload/q_auto/v1607769454/react-tutorial/products/final/tomato.png",
-    "name": "Tomato",
+    "name": "马铃薯",
     "nutrition": {
         "carbs": 4,
         "fat": 0.2,
@@ -11,5 +11,5 @@
     },
     "price": 2.75,
     "price_id": "price_1KkN9TGj8t01EJllcKsOr5SQ",
-    "storage": "Store in a cool place, away from the sun."
+    "storage": "存放在阴凉处，避免阳光直晒"
 }

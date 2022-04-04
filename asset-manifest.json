@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/react-supermarkert/static/css/main.276c30f0.css",
-    "main.js": "/react-supermarkert/static/js/main.3f0627f4.js",
-    "index.html": "/react-supermarkert/index.html",
-    "main.276c30f0.css.map": "/react-supermarkert/static/css/main.276c30f0.css.map",
-    "main.3f0627f4.js.map": "/react-supermarkert/static/js/main.3f0627f4.js.map"
+    "main.css": "/static/css/main.276c30f0.css",
+    "main.js": "/static/js/main.cf2b7a5f.js",
+    "index.html": "/index.html",
+    "main.276c30f0.css.map": "/static/css/main.276c30f0.css.map",
+    "main.cf2b7a5f.js.map": "/static/js/main.cf2b7a5f.js.map"
   },
   "entrypoints": [
     "static/css/main.276c30f0.css",
-    "static/js/main.3f0627f4.js"
+    "static/js/main.cf2b7a5f.js"
   ]
 }

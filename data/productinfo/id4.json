@@ -1,8 +1,8 @@
 {
-    "description": "500g pineapple",
+    "description": "500g 菠萝",
     "id": 4,
     "image": "https://res.cloudinary.com/dbfn5lnvx/image/upload/q_auto/v1607769454/react-tutorial/products/final/pineapple.png",
-    "name": "Pineapple",
+    "name": "菠萝",
     "nutrition": {
         "carbs": 22,
         "fat": 2,
@@ -11,5 +11,5 @@
     },
     "price": 3.25,
     "price_id": "price_1KkNDkGj8t01EJllwoh3lEVN",
-    "storage": "Store in a cool place, away from the sun."
+    "storage": "存放在阴凉处，远离阳光"
 }
