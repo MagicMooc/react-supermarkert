@@ -1,0 +1,15 @@
+{
+    "description": "一个西红柿",
+    "id": 3,
+    "image": "https://picmagic.oss-cn-beijing.aliyuncs.com/img/tomato.png",
+    "name": "西红柿",
+    "nutrition": {
+        "carbs": 4,
+        "fat": 0.2,
+        "protein": 1,
+        "salt": 0
+    },
+    "price": 2.75,
+    "price_id": "price_1KkN9TGj8t01EJllcKsOr5SQ",
+    "storage": "存放在阴凉处，避免阳光直晒"
+}

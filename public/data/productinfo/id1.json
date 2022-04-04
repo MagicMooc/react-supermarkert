@@ -1,0 +1,15 @@
+{
+    "description": "200g 奶酪块",
+    "id": 1,
+    "image": "https://picmagic.oss-cn-beijing.aliyuncs.com/img/cheese.png",
+    "name": "奶酪",
+    "nutrition": {
+        "carbs": 1.3,
+        "fat": 33,
+        "protein": 25,
+        "salt": 1
+    },
+    "price": 10,
+    "price_id": "price_1KkN7lGj8t01EJllnXkrAuUE",
+    "storage": "存放在冰箱 (5°C 至15°C)"
+}

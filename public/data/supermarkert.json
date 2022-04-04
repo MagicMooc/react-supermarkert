@@ -1,0 +1,29 @@
+[{
+    "description": "200g cheese block",
+    "id": 1,
+    "image": "https://picmagic.oss-cn-beijing.aliyuncs.com/img/cheese.png",
+    "name": "Cheese",
+    "price": 10,
+    "price_id": "price_1KkN7lGj8t01EJllnXkrAuUE"
+}, {
+    "description": "200ml milk bottle",
+    "id": 2,
+    "image": "https://picmagic.oss-cn-beijing.aliyuncs.com/img/milk.png",
+    "name": "Milk",
+    "price": 5,
+    "price_id": "price_1KkN8RGj8t01EJllgyBkzvpE"
+}, {
+    "description": "1 piece of tomato",
+    "id": 3,
+    "image": "https://picmagic.oss-cn-beijing.aliyuncs.com/img/tomato.png",
+    "name": "Tomato",
+    "price": 2.75,
+    "price_id": "price_1KkN9TGj8t01EJllcKsOr5SQ"
+}, {
+    "description": "500g pineapple",
+    "id": 4,
+    "image": "https://picmagic.oss-cn-beijing.aliyuncs.com/img/pineapple.png",
+    "name": "Pineapple",
+    "price": 3.25,
+    "price_id": "price_1KkNDkGj8t01EJllwoh3lEVN"
+}]

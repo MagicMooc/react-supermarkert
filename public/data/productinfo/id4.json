@@ -1,0 +1,15 @@
+{
+    "description": "500g 菠萝",
+    "id": 4,
+    "image": "https://picmagic.oss-cn-beijing.aliyuncs.com/img/pineapple.png",
+    "name": "菠萝",
+    "nutrition": {
+        "carbs": 22,
+        "fat": 2,
+        "protein": 1,
+        "salt": 0
+    },
+    "price": 3.25,
+    "price_id": "price_1KkNDkGj8t01EJllwoh3lEVN",
+    "storage": "存放在阴凉处，远离阳光"
+}

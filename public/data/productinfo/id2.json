@@ -1,0 +1,15 @@
+{
+    "description": "200ml 瓶装牛奶",
+    "id": 2,
+    "image": "https://picmagic.oss-cn-beijing.aliyuncs.com/img/milk.png",
+    "name": "牛奶",
+    "nutrition": {
+        "carbs": 11,
+        "fat": 15,
+        "protein": 16,
+        "salt": 0.44
+    },
+    "price": 5,
+    "price_id": "price_1KkN8RGj8t01EJllgyBkzvpE",
+    "storage": "冷藏储存"
+}
